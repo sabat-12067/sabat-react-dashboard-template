@@ -1,11 +1,5 @@
 # Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Berry%20Angular%20-%20The%20Most%20Beautiful%20Bootstrap%20Designed%20Admin%20Dashboard%20Template%20&url=https://berrydashboard.io/angular/default&via=codedthemes&hashtags=angular,webdev,developers,typescript)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/mantis-free-react-admin-template/blob/master/LICENSE)
-[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/mantis-free-react-admin-template)](https://github.com/codedthemes/mantis-free-react-admin-template/)
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=flat-square&logo=github)](https://codedthemes.com/item/mantis-free-mui-admin-template/)
-[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/p2E2WhCb6s)
-
 Mantis is a free and open source React dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
 
 ### Name Derived From Nature
@@ -43,7 +37,7 @@ Mantis has Ant Design principal on top of the Material UI React component librar
 1. Clone from Github
 
 ```
-git clone https://github.com/codedthemes/mantis-free-react-admin-template.git
+git clone https://github.com/sabat-12067/sabat-react-dashboard-template.git
 ```
 
 2. Install packages
@@ -62,10 +56,9 @@ yarn run start
 
 - Mantis Free
   - [Live Preview](https://mantisdashboard.io/free/)
-  - [Download](https://codedthemes.com/item/mantis-free-mui-admin-template/)
+    
 - Mantis Pro
   - [Live Preview](https://mantisdashboard.io/)
-  - [Download](https://codedthemes.com/item/mantis-mui-react-dashboard-template/)
 
 ## Why Mantis?
 
@@ -94,7 +87,7 @@ The [Pro version](https://mantisdashboard.io/) of Mantis react template includes
 | -                                               | ✓ RTL                                                                            |
 | -                                               | ✓ JWT authentications                                                            |
 | -                                               | ✓ [More components](https://mantisdashboard.io/components-overview/autocomplete) |
-| ✓ [MIT License](https://github.com/codedthemes/mantis-free-react-admin-template/blob/master/LICENSE)                                   | ✓ [Pro License](https://mui.com/store/license/)                                  |
+| ✓ [MIT License](https://github.com/sabat-12067/sabat-react-dashboard-template/blob/master/LICENSE)                                   | ✓ [Pro License](https://mui.com/store/license/)                                  |
 
 ## Documentation
 
@@ -148,11 +141,11 @@ The [Pro version](https://mantisdashboard.io/) of Mantis react template includes
 
 ## Issues
 
-Please generate a [Github issue](https://github.com/codedthemes/mantis-free-react-admin-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
+Please generate a [Github issue](https://github.com/sabat-12067/sabat-react-dashboard-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
 
 ## License
 
-- Licensed under [MIT](https://github.com/codedthemes/mantis-free-react-admin-template/blob/master/LICENSE)
+- Licensed under [MIT](https://github.com/sabat-12067/sabat-react-dashboard-template/blob/master/LICENSE)
 - Copyright © [CodedThemes](https://codedthemes.com/)
 
 ## Contributor
