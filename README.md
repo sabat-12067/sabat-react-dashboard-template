@@ -27,10 +27,7 @@ Mantis has Ant Design principal on top of the Material UI React component librar
 - [More React Dashboard Templates](#more-react-dashboard-templates)
 - [Issues?](#issues)
 - [License](#license)
-- [Contributor](#contributor)
 - [Useful Resources](#useful-resources)
-- [Community](#community)
-- [Follow us](#follow-us)
 
 ## Getting Started
 
