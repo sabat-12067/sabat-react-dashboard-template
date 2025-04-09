@@ -1,4 +1,4 @@
-# Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Berry%20Angular%20-%20The%20Most%20Beautiful%20Bootstrap%20Designed%20Admin%20Dashboard%20Template%20&url=https://berrydashboard.io/angular/default&via=codedthemes&hashtags=angular,webdev,developers,typescript)
+# Mantis Free React Material UI Dashboard Template
 
 Mantis is a free and open source React dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
 
@@ -148,21 +148,6 @@ Please generate a [Github issue](https://github.com/sabat-12067/sabat-react-dash
 - Licensed under [MIT](https://github.com/sabat-12067/sabat-react-dashboard-template/blob/master/LICENSE)
 - Copyright © [CodedThemes](https://codedthemes.com/)
 
-## Contributor
-
-**CodedThemes Team**
-
-- https://x.com/codedthemes
-- https://github.com/codedthemes
-
-**Rakesh Nakrani**
-
-- https://x.com/rakesh_nakrani
-
-**Brijesh Dobariya**
-
-- https://x.com/dobaria_brijesh
-
 ## Useful Resources
 
 - [More Admin Templates From CodedThemes](https://codedthemes.com/item/category/admin-templates/)
@@ -171,18 +156,3 @@ Please generate a [Github issue](https://github.com/sabat-12067/sabat-react-dash
 - [Figma UI Kits](https://codedthemes.com/item/category/templates/figma/)
 - [Affiliate Program](https://codedthemes.com/affiliate/)
 - [Blogs](https://blog.codedthemes.com/)
-
-## Community
-
-- 👥Follow [@codedthemes](https://x.com/codedthemes)
-- 🔗Join [Discord](https://discord.com/invite/p2E2WhCb6s)
-- 🔔Subscribe to [Codedtheme Blogs](https://blog.codedthemes.com/)
-
-## Follow Us
-
-- [Twitter](https://twitter.com/codedthemes) 🐦
-- [Dribbble](https://dribbble.com/codedthemes) 🏀
-- [Github](https://github.com/codedthemes) 🐙
-- [LinkedIn](https://www.linkedin.com/company/codedthemes/) 💼
-- [Instagram](https://www.instagram.com/codedthemes/) 📷
-- [Facebook](https://www.facebook.com/codedthemes) 🟦
